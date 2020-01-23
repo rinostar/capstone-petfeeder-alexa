@@ -1,5 +1,5 @@
 # Foodiebear Petfeeder
-Pets bring compaionship, health, and just pure joy in our lives. That's why it's important to take care of our friends, despite our increasingly busy life-style. Foodiebear Petfeeder provides pet owners the freedom to feed their loved ones whenever, wherever. This project includes a DIY pet feeder powered by raspberry pi, a MERN web app powerd by Azure cloud platform, and a Alexa skill powered by AWS Lambda. Whether your pets need to be fed breakfast before you wake up, dinner while you're working late, or simply a treate when you are busy in the house, you should stay tuned and support this awesome porject :) 
+Pets bring compaionship, health, and just pure joy in our lives. That's why it's important to take care of our friends, despite our increasingly busy life-style. Foodiebear Petfeeder provides pet owners the freedom to feed their loved ones whenever, wherever. This project includes a DIY pet feeder powered by raspberry pi, a MERN web app powerd by Azure cloud platform, and a Alexa skill powered by AWS Lambda. Whether your pets need to be fed breakfast before you wake up, dinner while you're working late, or simply a treate when you are busy in the house, you should check out this awesome porject :) 
 
 ## 1. Prerequisite
 Open an Azure account for setup services for:
