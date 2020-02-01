@@ -1,4 +1,4 @@
-# Foodiebear Pet Feeder (Part I. Hardware)
+# Foodiebear Pet Feeder (Part III. Alexa Skill)
 
 ## 1. Project Overview
 Foodiebear PetFeeder helps pet owners to stay connected with their loved ones whenever, wherever. This project includes a DIY pet feeder powered by raspberry pi, a MERN web app powered by Azure cloud platform, and an Alexa skill powered by AWS. Whether your pets need to be fed breakfast before you wake up, dinner while you're working late, or simply a treat when you are busy in the house, you should stay tuned to this awesome project :dog::cat::panda_face:
