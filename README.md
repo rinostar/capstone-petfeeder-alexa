@@ -14,7 +14,7 @@ This is the Alexa Skill part of the FoodieBear Pet Feeder project. This repo con
 
 ### a). Alexa Developer Console:
 https://developer.amazon.com/alexa/console/ask
-<br />NOTE: Be sure to use the same email address for your developer console and your alexa. After deployment within the console, the new Alexa skill will be available on your Alexa device automatically. Thanks, Alexa.
+<br />NOTE: Be sure to use the same email address for your developer console and your Alexa. After deployment within the console, the new Alexa skill will be available on your Alexa device automatically. Thanks, Alexa.
 
 ### b). Code for Lambda Function:
 Please refer to the "foodiebear_lambda.py" file in this repo
