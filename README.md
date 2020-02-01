@@ -18,7 +18,8 @@ https://developer.amazon.com/alexa/console/ask
 
 ### b). Code for Lambda Function:
 Please refer to the "foodiebear_lambda.py" file in this repo
-<br />NOTE: Be sure to update the web address to your Azure app on line 54 `$ r = requests.get("https://foodiebear.azurewebsites.net/api/feed")` 
+<br />NOTE: Be sure to update the web address to your Azure app on line 54 
+<br />`$ r = requests.get("<your_app_address")` 
 
 ## 4. Other Repos:
 * Part I. Hardware & Raspberry Pi: https://github.com/rinostar/capstone_petfeeder
